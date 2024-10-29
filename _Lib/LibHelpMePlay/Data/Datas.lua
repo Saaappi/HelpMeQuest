@@ -27,6 +27,7 @@ LHMP.Containers = {
     147575, -- Trial of Style Reward: Third Place
     147576, -- Trial of Style Consolation Prize
     216874, -- Loot-Filled Basket
+    228741, -- Lamplighter Supply Satchel
 }
 
 LHMP.Emotes = {
