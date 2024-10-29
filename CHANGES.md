@@ -1,7 +1,8 @@
 ## Version 3.2.3 - 2024/11/05
 
 ### Added
-_No changes_
+- **Open Containers**
+  - The **Lamplighter Supply Satchel** is now considered an openable container.
 ### Changed or Updated
 _No changes_
 ### Deprecated
