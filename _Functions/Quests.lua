@@ -229,8 +229,6 @@ HelpMePlay.CompleteQuest = function()
 
                 if bestItemIndex ~= 0 then
                     GetQuestReward(bestItemIndex)
-                else
-                    GetQuestReward(math.random(1, numChoices))
                 end
             end
         elseif numChoices == 0 or numChoices == 1 then

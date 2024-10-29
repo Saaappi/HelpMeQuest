@@ -4,7 +4,8 @@
 - **Open Containers**
   - The **Lamplighter Supply Satchel** is now considered an openable container.
 ### Changed or Updated
-_No changes_
+- **Quests**
+  - Moving forward, if a best reward can't be determined from a quest, then the player will need to decide. The addon will no longer make a random choice.
 ### Deprecated
 _No changes_
 ### Removed
