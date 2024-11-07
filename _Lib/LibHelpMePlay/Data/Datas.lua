@@ -19,6 +19,7 @@ LHMP.Containers = {
     21746, -- Lucky Red Envelope
     37586, -- Handful of Treats
     54537, -- Heart-Shaped Box
+    116762, -- Stolen Present
     117392, -- Loot-Filled Pumpkin
     117393, -- Keg-Shaped Treasure Chest
     117394, -- Satchel of Chilled Goods

@@ -2,7 +2,7 @@
 
 ### Added
 - **Open Containers**
-  - The **Lamplighter Supply Satchel** is now considered an openable container.
+  - Added support for the **Lamplighter Supply Satchel** and **Stolen Present** (Winter Veil).
 ### Changed or Updated
 - **Quests**
   - Moving forward, if a best reward can't be determined from a quest, then the player will need to decide. The addon will no longer make a random choice.
